@@ -17,7 +17,7 @@ Features
 
 ## SWOT ANALYSIS
 
-### Strengths
+## Strengths
 
 Reducing long queues
 
@@ -29,7 +29,7 @@ Customer Invoices
 
 Employee work hours
 
-###Weakness
+## Weakness
 
 It is not cost-effective for small scale business owners.
 
@@ -42,7 +42,7 @@ Automatic invoices and management system reduces human mediation, which reduces 
 Irregularity of updates can lead to hardships and hassles between purchases and credits.
 
 
-###Opportunities
+## Opportunities
 
 Mobile services
 
@@ -50,7 +50,7 @@ Cloud computing
 
 IOT services
 
-##3Threats
+## Threats
 
 System Crash
 
