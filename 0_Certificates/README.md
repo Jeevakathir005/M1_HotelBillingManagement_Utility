@@ -10,5 +10,5 @@
 ![solo learn](https://user-images.githubusercontent.com/98821055/153552922-594924a5-b1be-43e3-9f15-c377ac06b662.png)
 
 # github
-![GITHUB](https://user-images.githubusercontent.com/98821055/153553149-65c07bff-76dc-4613-b0ea-9d6012f461c4.png)
+ ![GITHUB](https://user-images.githubusercontent.com/98821055/153553149-65c07bff-76dc-4613-b0ea-9d6012f461c4.png)
 
