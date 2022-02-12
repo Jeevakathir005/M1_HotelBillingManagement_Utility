@@ -11,7 +11,7 @@
 
 |*Test ID|HL_ID|Description|Exp input|Exp Output|Actual Output*|
 |---|---|---|---|---|---|
-|L_01|	H_01|	Admin can delete records of products|	22 units|	71.5 rupees|	71.5 rupees
+|L_01|	H_01|	Admin can delete records of products|	22 units|	50 rupees|	50 rupees
 |L_02|	H_01|	Admin can view records of products|	50|	235|	235
 |L_03|	H_01|	Admin can search products|	150|	937.5|	937.5
 |L_04|	H_01|	Admin can view records of products|	230|	1,679	|1,679
