@@ -19,7 +19,7 @@ We can:
 7. Change the Graphical User Interface of the system.  
 
 We can’t:  
-1. Calculate of the salaries of the employees.  
+1. Calculate of the billing of the product.  
 2. Calculate the expanses on the product. 
 
 
