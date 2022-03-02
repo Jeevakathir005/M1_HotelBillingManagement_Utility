@@ -7,3 +7,6 @@
 
 # LOW LEVEL DIAGRAM
 ![LOW LEVEL DIAGRAM](https://user-images.githubusercontent.com/98821055/156309016-ab53a7c1-ff69-4ff7-9d2e-9d85d0d39a22.png)
+
+# USE CASE DIAGRAM
+![USE CASE DIAGRAM](https://user-images.githubusercontent.com/98821055/156309337-bfd7b326-cd05-4e29-8781-5a1703ed8a43.png)
