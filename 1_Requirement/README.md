@@ -7,13 +7,13 @@ Here, we can add bill with name, phone number and the amount of payment.
 Using this we can also make payment by providing our bill no instead of name.
 All data added in a file. This project will teach you how to do the records of hotel billing .
 
-Features
+## Features
 
-1 Architecture of this project is very simple and easy to understand the code.
-2 Add new bills : add new data into file with name customer number and amount to be paid.
-3 View list of bills : Lists all hotel billing records.
-4 Modify bills : edit the quantity.
-5 View payment :shows amount to be paid.
+1. Architecture of this project is very simple and easy to understand the code.
+2. Add new bills : add new data into file with name customer number and amount to be paid.
+3. View list of bills : Lists all hotel billing records.
+4. Modify bills : edit the quantity.
+5. View payment :shows amount to be paid.
 
 ## SWOT ANALYSIS
 
